@@ -1,4 +1,5 @@
 # Book Analysis and NLTK Analysis Project
+Demo in the 2 python notebook file, can replace the .txt file
 
 This project is focused on analyzing books and natural language processing (NLP) using the Natural Language Toolkit (NLTK).
 
